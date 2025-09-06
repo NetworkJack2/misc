@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Script Overhauled and extended by GI_Jack
+# Script Overhauled and extended by Network_Jack
 #
 # Calomel.org 
 #     https://calomel.org/megacli_lsi_commands.html
