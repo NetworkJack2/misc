@@ -64,7 +64,7 @@ create_swap_file(){
   local -i exit_code=0
   local block_size="1024k" # One Megabyte
   if [ -f "${SWAP_FILE}" ];then
-    message "${SWAP_FILE} exits, removing first..."
+    message "${SWAP_FILE} exsits, removing first..."
     submsg "Wipe"
     ${WIPE_CMD} --remove "${SWAP_FILE}" || \
       exit_with_error 1 "Cannot Remove stale swap file, exiting!"
