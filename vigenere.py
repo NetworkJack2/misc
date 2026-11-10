@@ -5,7 +5,7 @@
   
   https://en.wikipedia.org/wiki/Vigenere_cipher
 
-  - GI Jack, licensed under GPLv3. WIP
+  - Network_Jack, licensed under GPLv3. WIP
 '''
 
 import argparse
